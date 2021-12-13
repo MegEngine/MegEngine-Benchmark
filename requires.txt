@@ -1,0 +1,7 @@
+megengine
+torch==1.10
+torchvision==0.11.1
+timm
+rich
+tabulate
+loguru
